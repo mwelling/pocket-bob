@@ -3082,6 +3082,12 @@
 		(uuid "16b195a9-c9b5-46c9-9f50-eebf9a84c1bc")
 	)
 	(junction
+		(at 83.82 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17c0037f-f135-490c-8884-358572e5cc1f")
+	)
+	(junction
 		(at 96.52 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3298,12 +3304,6 @@
 		(uuid "8cbb93af-881f-4325-be6c-9ceaa277b3f9")
 	)
 	(junction
-		(at 72.39 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8ffe6304-f8d5-4469-8d3d-f2d2855214b5")
-	)
-	(junction
 		(at 83.82 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3326,12 +3326,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a61608bd-c985-4462-b113-1612b8587382")
-	)
-	(junction
-		(at 83.82 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7430b1e-48f4-401b-9963-fbda008ea145")
 	)
 	(junction
 		(at 215.9 95.25)
@@ -3591,6 +3585,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 90.17) (xy 46.99 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d8baf0-1ddc-4dc5-8026-df76d75289cf")
+	)
+	(wire
+		(pts
 			(xy 236.22 110.49) (xy 215.9 110.49)
 		)
 		(stroke
@@ -3648,16 +3652,6 @@
 			(type default)
 		)
 		(uuid "2af5b6da-f9a3-42af-9d6d-1692ae41b020")
-	)
-	(wire
-		(pts
-			(xy 72.39 90.17) (xy 83.82 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2bd96bcf-d8bc-4282-abe3-5f3fec215ce8")
 	)
 	(wire
 		(pts
@@ -3828,16 +3822,6 @@
 			(type default)
 		)
 		(uuid "4c150b64-11a9-4dc0-9e25-25d89d65628e")
-	)
-	(wire
-		(pts
-			(xy 71.12 92.71) (xy 72.39 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50439e2c-8506-472e-9dde-68496e21ef0a")
 	)
 	(wire
 		(pts
@@ -4141,7 +4125,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 92.71) (xy 83.82 92.71)
+			(xy 71.12 92.71) (xy 83.82 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4158,16 +4142,6 @@
 			(type default)
 		)
 		(uuid "829ce5bc-f7fb-4555-b01c-261d1a218e22")
-	)
-	(wire
-		(pts
-			(xy 72.39 90.17) (xy 72.39 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8342fd44-f155-4408-b4ab-5e0b60a078af")
 	)
 	(wire
 		(pts
@@ -4408,6 +4382,16 @@
 			(type default)
 		)
 		(uuid "b73b8ae3-7b37-4a42-b3ac-78db92737378")
+	)
+	(wire
+		(pts
+			(xy 54.61 90.17) (xy 83.82 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8830e4a-68f5-473e-bfce-a27faaa33a67")
 	)
 	(wire
 		(pts
@@ -4998,6 +4982,16 @@
 			(justify left bottom)
 		)
 		(uuid "156660ed-7e77-4299-b4fd-55356c144784")
+	)
+	(label "P1_13"
+		(at 59.69 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a312b31-2371-4597-905b-94bfd2c4e491")
 	)
 	(label "P2_24"
 		(at 224.79 102.87 0)
@@ -11176,6 +11170,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 40.64 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63f7b4de-7c45-4b13-b366-5641831a794d")
+		(property "Reference" "D2"
+			(at 44.196 89.154 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GREEN"
+			(at 37.338 89.154 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+			(at 40.64 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 40.64 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e733b272-cb06-427a-8c7e-fa3169902b35")
+		)
+		(pin "1"
+			(uuid "3bb132e7-88da-4b4b-b6a3-b60de3580f55")
+		)
+		(instances
+			(project "pocket-bob"
+				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 254 74.93 90)
 		(unit 1)
@@ -16669,6 +16731,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 36.83 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c29ef813-03c3-4580-96de-9e101f1ed2e7")
+		(property "Reference" "#PWR060"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 34.036 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a675fc84-99bc-47c1-be38-e0391b2a1a87")
+		)
+		(instances
+			(project "pocket-bob"
+				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 125.73 90.17 270)
 		(unit 1)
@@ -18201,6 +18329,73 @@
 			(project "pocket-bob"
 				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 50.8 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eb9a9228-9624-4180-bcfd-3de50bcf74b1")
+		(property "Reference" "R2"
+			(at 55.626 89.154 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1K"
+			(at 50.8 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 50.8 91.948 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3531a746-0680-49f6-831a-1bd894b53179")
+		)
+		(pin "1"
+			(uuid "60f93c2f-fec4-4f78-a812-194fb34f58f8")
+		)
+		(instances
+			(project "pocket-bob"
+				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
+					(reference "R2")
 					(unit 1)
 				)
 			)
