@@ -5695,6 +5695,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P2.20KLCT-ND"
+			(at 50.8 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a13bb067-5a8d-4615-845a-e8dac9912f27")
 		)
@@ -5755,6 +5764,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 250.19 115.57 0)
 			(effects
 				(font
@@ -5831,6 +5849,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4bf4447f-d066-49f0-8c86-4b7e47effa3b")
 		)
@@ -5891,6 +5918,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 105.41 0)
 			(effects
 				(font
@@ -5966,6 +6002,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b61c5ff-9f2d-48e5-9e49-c906802249fd")
 		)
@@ -6025,6 +6070,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 50.8 110.49 0)
 			(effects
 				(font
@@ -6101,6 +6155,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad528efc-002e-4056-8283-f18b4e85f3cb")
 		)
@@ -6160,6 +6223,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 102.87 0)
 			(effects
 				(font
@@ -6301,6 +6373,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "28b4b246-a6b0-42fc-a7eb-d28e802a8a2b")
 		)
@@ -6360,6 +6441,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -6568,6 +6658,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d40edf3a-7ffd-4e65-845d-395661f11e3f")
 		)
@@ -6768,6 +6867,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1217-1-ND"
+			(at 135.89 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2aedd6d7-301a-4777-9421-cd2126aac5e8")
 		)
@@ -6836,6 +6944,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8039dfcc-482f-4d8c-b7d8-fb2f3ee1f0cb")
 		)
@@ -6895,6 +7012,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 50.8 97.79 0)
 			(effects
 				(font
@@ -7102,6 +7228,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "362296cf-d6bc-464d-8e80-d9e95a7bdb14")
 		)
@@ -7169,6 +7304,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "17e9448c-e9f6-4552-80c9-7cc1ed87f7b0")
 		)
@@ -7228,6 +7372,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -7304,6 +7457,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a23d2e81-db37-4dfe-be94-dec5f53d62b6")
 		)
@@ -7364,6 +7526,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 87.63 0)
 			(effects
 				(font
@@ -7434,6 +7605,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" ""
 			(at 193.04 31.75 0)
 			(effects
 				(font
@@ -7701,6 +7881,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46996747-ad30-4582-a03a-a0aaa61d582a")
 		)
@@ -7902,6 +8091,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "032aa5e6-cfbb-43d9-966f-d80791a6678e")
 		)
@@ -7972,6 +8170,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" ""
+			(at 193.04 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
@@ -8028,6 +8235,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 78.74 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "311-1088-1-ND"
 			(at 78.74 49.53 0)
 			(effects
 				(font
@@ -8169,6 +8385,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6698346d-c799-49d2-9afe-c236d371a579")
 		)
@@ -8231,6 +8456,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 101.6 95.25 0)
 			(effects
 				(font
@@ -8354,6 +8588,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "676939bd-37da-4900-a20a-166200baf834")
 		)
@@ -8421,6 +8664,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5fb2a7c0-b832-4d6f-814a-5508b16726cb")
 		)
@@ -8480,6 +8732,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 97.79 0)
 			(effects
 				(font
@@ -8556,6 +8817,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7df20868-e225-4794-8fef-783b6608d283")
 		)
@@ -8615,6 +8885,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P2.20KLCT-ND"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -8823,6 +9102,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "584bf47b-86a8-4a78-bcf8-fc42e37d5b83")
 		)
@@ -8891,6 +9179,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c2a5d970-37e0-4f49-b8dc-b8d7772ab90f")
 		)
@@ -8950,6 +9247,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 95.25 0)
 			(effects
 				(font
@@ -9026,6 +9332,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "69bc9500-359d-4133-a8fd-d436479b490a")
 		)
@@ -9085,6 +9400,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 50.8 107.95 0)
 			(effects
 				(font
@@ -9161,6 +9485,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7191ac14-49cf-4ed9-9a2f-e7763ad6f2bc")
 		)
@@ -9220,6 +9553,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 240.03 118.11 0)
 			(effects
 				(font
@@ -9291,6 +9633,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 78.74 95.25 0)
 			(effects
 				(font
@@ -9415,6 +9766,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b523a78d-a706-45e1-8dbd-8f60dbb854ab")
 		)
@@ -9474,6 +9834,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 82.55 0)
 			(effects
 				(font
@@ -9544,6 +9913,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 220.98 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 220.98 95.25 0)
 			(effects
 				(font
@@ -9668,6 +10046,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2b3b6e74-1ad8-4f22-a6d2-33c8ec4dc748")
 		)
@@ -9727,6 +10114,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 240.03 107.95 0)
 			(effects
 				(font
@@ -10199,6 +10595,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "adf66d56-5b81-493c-9fdf-e1b6238b99b0")
 		)
@@ -10401,6 +10806,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "240-2367-1-ND"
+			(at 39.37 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "138e1ee9-2584-427a-85db-96dd7a00ff98")
 		)
@@ -10534,6 +10948,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P2.20KLCT-ND"
+			(at 125.73 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52267a4b-8828-4a78-9bc0-788ab65a51fd")
 		)
@@ -10594,6 +11017,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 97.79 0)
 			(effects
 				(font
@@ -10670,6 +11102,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93fa79a8-0aa5-4f08-be14-ac5657146b41")
 		)
@@ -10738,6 +11179,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1217-1-ND"
+			(at 40.64 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a85c3730-d27a-4e75-85f9-21b9624a36d8")
 		)
@@ -10797,6 +11247,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 74.93 0)
 			(effects
 				(font
@@ -10873,6 +11332,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ec4c888c-e076-40f6-9044-6feef56de76a")
 		)
@@ -10933,6 +11401,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 250.19 97.79 0)
 			(effects
 				(font
@@ -11008,6 +11485,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a1c99681-fe59-44c3-bda0-e260f008b3d9")
 		)
@@ -11068,6 +11554,15 @@
 			)
 		)
 		(property "Description" "Current Limit Switch and D+/D– ESD Protection for USB Host Port, 0.5A, SOT-23-6"
+			(at 67.31 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "296-38835-1-ND"
 			(at 67.31 40.64 0)
 			(effects
 				(font
@@ -11214,6 +11709,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 40.64 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 40.64 90.17 0)
 			(effects
 				(font
@@ -11619,6 +12123,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c05845de-6fa8-4f9d-b7e6-25de325af39c")
 		)
@@ -11752,6 +12265,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2eb532e-4af4-47f5-b834-ea61f437fa65")
 		)
@@ -11820,6 +12342,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "255d7745-87a8-4359-bf3b-3e88c65c8b2b")
 		)
@@ -11879,6 +12410,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 91.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "311-4.7KJRCT-ND"
 			(at 91.44 46.99 0)
 			(effects
 				(font
@@ -11957,6 +12497,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" ""
+			(at 193.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
@@ -12011,6 +12560,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 250.19 110.49 0)
 			(effects
 				(font
@@ -12144,6 +12702,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 240.03 97.79 0)
 			(effects
 				(font
@@ -12417,6 +12984,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ef4d2e6-19e0-4db0-a226-579e9a31ce93")
 		)
@@ -12480,6 +13056,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 198.12 95.25 0)
 			(effects
 				(font
@@ -12595,6 +13180,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 240.03 74.93 0)
 			(effects
 				(font
@@ -12737,6 +13331,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a32befa7-f8b6-4a2a-9165-402a8574a675")
 		)
@@ -12797,6 +13400,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 40.64 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 40.64 105.41 0)
 			(effects
 				(font
@@ -12873,6 +13485,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f77d740-7c03-41b8-be25-31ab3db1887d")
 		)
@@ -12934,6 +13555,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x18, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 88.9 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 88.9 95.25 0)
 			(effects
 				(font
@@ -13112,6 +13742,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7cd93002-70f9-4954-9c59-6dd678a8bcfc")
 		)
@@ -13172,6 +13811,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 135.89 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 135.89 80.01 0)
 			(effects
 				(font
@@ -13247,6 +13895,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90df9ec6-b837-4c69-89b4-7c31559f00c9")
 		)
@@ -13307,6 +13964,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 77.47 0)
 			(effects
 				(font
@@ -13448,6 +14114,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c6b6295f-1cdb-4320-86e0-59f90ba84ef7")
 		)
@@ -13516,6 +14191,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5786aa1c-3962-419e-a4e4-976aea67f732")
 		)
@@ -13576,6 +14260,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 250.19 77.47 0)
 			(effects
 				(font
@@ -13717,6 +14410,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3341d6a2-b747-42e1-9a53-403c62ea16b8")
 		)
@@ -13779,6 +14481,15 @@
 			)
 		)
 		(property "Description" "Ferrite bead, small symbol"
+			(at 26.67 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "240-2367-1-ND"
 			(at 26.67 55.88 0)
 			(effects
 				(font
@@ -13923,6 +14634,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" ""
+			(at 193.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/80a48dc9-34e5-4985-ad01-29d7823c9fb7"
@@ -13977,6 +14697,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 74.93 0)
 			(effects
 				(font
@@ -14044,6 +14773,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 85.09 0)
 			(effects
 				(font
@@ -14120,6 +14858,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1217-1-ND"
+			(at 135.89 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90c7187b-88ea-4035-b51f-46cf056f9ec2")
 		)
@@ -14180,6 +14927,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 40.64 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 40.64 100.33 0)
 			(effects
 				(font
@@ -14321,6 +15077,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "874f7965-76c4-4343-9927-06b65c318b44")
 		)
@@ -14389,6 +15154,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6640445d-ce06-41f2-9c6f-73c0c97e2ec9")
 		)
@@ -14448,6 +15222,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 82.55 0)
 			(effects
 				(font
@@ -14524,6 +15307,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad8419fc-afe8-4ce8-9cfc-cb0fab98ca99")
 		)
@@ -14584,6 +15376,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 135.89 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 135.89 115.57 0)
 			(effects
 				(font
@@ -14725,6 +15526,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b06f5127-9eec-4885-bc45-97ae6ba3e80e")
 		)
@@ -14858,6 +15668,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9138977d-ab40-481a-b727-ac5baf7d9307")
 		)
@@ -14983,6 +15802,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 77.47 0)
 			(effects
 				(font
@@ -15125,6 +15953,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "WM14667-ND"
+			(at 29.21 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c47924f4-cc23-4d24-9e8f-c35ac37f652f")
 		)
@@ -15202,6 +16039,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4ee766b3-aba8-41ef-98f0-4d523dda9367")
 		)
@@ -15261,6 +16107,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 118.11 0)
 			(effects
 				(font
@@ -15337,6 +16192,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5990ce0b-a919-412b-84e2-17f6f39f2b40")
 		)
@@ -15396,6 +16260,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 240.03 82.55 0)
 			(effects
 				(font
@@ -15537,6 +16410,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9bd2f76e-d585-4aa7-91b4-a0b94a92b76c")
 		)
@@ -15604,6 +16486,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "029c4769-ac97-4892-a9df-e2b3accff763")
 		)
@@ -15663,6 +16554,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 113.03 0)
 			(effects
 				(font
@@ -15804,6 +16704,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b52eb847-1c52-4dc4-be69-615db3757fc0")
 		)
@@ -15864,6 +16773,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 40.64 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 40.64 110.49 0)
 			(effects
 				(font
@@ -15940,6 +16858,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9ce429e8-8546-4b6b-833d-53e8b203d83f")
 		)
@@ -16002,6 +16929,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "399-C0603X154K4RACTUCT-ND"
 			(at 53.34 49.53 0)
 			(effects
 				(font
@@ -16144,6 +17080,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cdd6328d-b2ae-4396-999a-43efd80b1a34")
 		)
@@ -16205,6 +17150,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x18, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "WM50012-36-ND"
 			(at 208.28 95.25 0)
 			(effects
 				(font
@@ -16515,6 +17469,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 168.91 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3be128cb-863e-44e1-8a1f-81ad96b5f13c")
 		)
@@ -16715,6 +17678,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "baa01284-cf4a-4cf8-92a6-83c8cdc56c7d")
 		)
@@ -16848,6 +17820,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61129b49-0793-45dd-bea1-bcb4c6959b6f")
 		)
@@ -16915,6 +17896,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "469df2d8-65fb-4b44-93d7-049d62cd2f5e")
 		)
@@ -16974,6 +17964,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 87.63 0)
 			(effects
 				(font
@@ -17115,6 +18114,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6144531c-b0a4-47ba-9a1e-ad17b1e7907b")
 		)
@@ -17175,6 +18183,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1217-1-ND"
 			(at 168.91 90.17 0)
 			(effects
 				(font
@@ -17382,6 +18399,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b5aac36a-6c49-40b4-be69-ce491a1a547b")
 		)
@@ -17442,6 +18468,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 107.95 0)
 			(effects
 				(font
@@ -17583,6 +18618,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 125.73 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d266a772-db3e-4ecf-b66b-cabdc10ac80c")
 		)
@@ -17643,6 +18687,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 135.89 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 135.89 85.09 0)
 			(effects
 				(font
@@ -17784,6 +18837,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 240.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c59a920b-ccee-4f2a-9330-b02f5b337506")
 		)
@@ -17851,6 +18913,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 179.07 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8512942-cd19-487f-9a0b-a2e1b280ff24")
 		)
@@ -17910,6 +18981,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 110.49 0)
 			(effects
 				(font
@@ -18052,6 +19132,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1217-1-ND"
+			(at 168.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8111a4aa-de9e-42f9-9269-d89bebee7001")
 		)
@@ -18185,6 +19274,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "P1.00KLCT-ND"
+			(at 50.8 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8181c638-13ef-40c9-9737-7c9aa59fbb60")
 		)
@@ -18245,6 +19343,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 135.89 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 135.89 74.93 0)
 			(effects
 				(font
@@ -18378,6 +19485,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 50.8 90.17 0)
 			(effects
 				(font
@@ -18644,6 +19760,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1216-1-ND"
 			(at 168.91 82.55 0)
 			(effects
 				(font
@@ -18984,6 +20109,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 250.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc3aef23-3ac2-41ee-a420-987a317566c0")
 		)
@@ -19044,6 +20178,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 135.89 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "1516-1217-1-ND"
 			(at 135.89 90.17 0)
 			(effects
 				(font
@@ -19120,6 +20263,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "17552e1c-4c9e-4d62-966e-11ea2f1854af")
 		)
@@ -19179,6 +20331,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 179.07 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 179.07 107.95 0)
 			(effects
 				(font
@@ -19255,6 +20416,15 @@
 				(hide yes)
 			)
 		)
+		(property "VPN" "1516-1216-1-ND"
+			(at 40.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a6c56d5-8cce-488d-8bba-f879289e1f5b")
 		)
@@ -19314,6 +20484,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VPN" "P1.00KLCT-ND"
 			(at 125.73 80.01 0)
 			(effects
 				(font
